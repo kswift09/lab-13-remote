@@ -1,0 +1,42 @@
+p {
+	color: #0000FF;
+
+	font-size: 14px;
+     text-decoration: line-through;
+}
+
+
+h1 {
+	color: pink;
+	background-color: #888888;
+	text-transform: uppercase;
+	margin: 20px;
+	padding: 40px;	
+
+
+	border-style: dashed;
+    border-width: 5px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: pink;
+}
+
+h2{
+	background-color: #888888;
+	text-decoration: underline;
+}
+li {
+	color: #FF3400;
+}
+font-family: 
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+img {
+	direction:rtl;
+}
+td{
+	border: 1px solid #777;
+	padding: 0.1em 1em;
+}
